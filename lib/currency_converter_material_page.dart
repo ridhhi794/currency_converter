@@ -43,7 +43,7 @@ class _CurrencyConverterMaterialPageState
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
-        elevation: 0,
+        elevation: 5,
         title: const Text(
           'Currency Converter',
           style: TextStyle(
