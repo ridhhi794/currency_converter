@@ -6,6 +6,7 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 
+//third commit
 class CurrencyConverterMaterialPage extends StatefulWidget {
   const CurrencyConverterMaterialPage({super.key});
 
@@ -43,7 +44,7 @@ class _CurrencyConverterMaterialPageState
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
-        elevation: 5,
+        elevation: 5, //second commit
         title: const Text(
           'Currency Converter',
           style: TextStyle(
